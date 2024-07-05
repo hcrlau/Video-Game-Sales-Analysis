@@ -47,6 +47,11 @@ Interactive Dashboard: Developed an intuitive and interactive dashboard using Ta
 - What genres have shown consistent growth or decline over the decades?
 
 
+## Learning Objectives
+1. Enhance data cleaning skills through thorough data preprocessing steps in Python.
+
+2. Improve Tableau proficiency by creating interactive and insightful visualizations.
+
 ## Statistics
 
 Data available from Maven Analytics: https://mavenanalytics.io/data-playground
