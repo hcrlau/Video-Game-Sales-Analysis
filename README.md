@@ -1,6 +1,7 @@
 # Video-Game-Sales-Analysis
 
-This project focuses on analyzing Global and Regional Video Games sales from 1977 to 2020, measured by sales of copies in millions. The analysis examines sales trends across genre, console, publishers, regions, and release date to uncover customer behavior patterns. The objective is to utilize these insights to enhance strategies and foster growth in video game sales globally.
+This project focuses on analyzing Global and Regional Video Games sales from 1977 to 2020, measured by sales of copies in millions. The analysis examines sales trends across genre, console, publishers, regions, and release date to uncover customer behavior patterns. The objective is to extract actionable insights that can inform strategic decisions and drive the growth of video game sales on a global scale.
+
 
 ## The Dataset
 This dataset contains a list of video games with sales greater than 100,000 copies.
@@ -16,7 +17,8 @@ Features include:
 - jp_sales:	Japanese sales of copies in millions
 - pal_sales:	European & African sales of copies in millions
 - other_sales:	Rest of world sales of copies in millions
-- release_date:	Date the game was released on
+- release_date:	Date of the game's initial release
+
 
 ## Tasks Included
 
@@ -30,7 +32,11 @@ Data Analysis: Conducted thorough analysis to identify opportunities and strateg
 
 Interactive Dashboard: Developed an intuitive and interactive dashboard using Tableau for real-time data visualization and strategic decision-making
 
+
 ## Visualization of regional and global video game sales
+Tableau Interactive Dashboard:
+https://public.tableau.com/views/VideoG/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 1. Top Performing Games by Sales:
 - Which games perform the best by sales?
 
@@ -52,6 +58,7 @@ Interactive Dashboard: Developed an intuitive and interactive dashboard using Ta
 
 2. Improve Tableau proficiency by creating interactive and insightful visualizations.
 
+
 ## Statistics
 
 Data available from Maven Analytics: https://mavenanalytics.io/data-playground
@@ -60,5 +67,8 @@ Main Language: Python
 
 Visualization: Python and Tableau
 
-Tableau Interactive Dashboard:
-https://public.tableau.com/views/VideoG/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Files Description
+- `vgchartz-2024.csv` Original raw dataset
+- `vgs.csv` Dataset after data cleaning
+- `Video_Game_Sales_Analysis` A notebook detailing data cleaning and analysis
+
