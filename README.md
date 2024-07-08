@@ -30,7 +30,7 @@ Data Analysis: Conducted thorough analysis to identify opportunities and strateg
 
 Interactive Dashboard: Developed an intuitive and interactive dashboard using Tableau for real-time data visualization and strategic decision-making
 
-## Visualization
+## Visualization of regional and global video game sales
 1. Top Performing Games by Sales:
 - Which games perform the best by sales?
 
